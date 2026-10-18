@@ -160,6 +160,7 @@ dois por dois e as abas da oferta se empilham.
 | **Front-end** | React, TypeScript, Vite, Tailwind CSS, shadcn/ui |
 | **Venda** | Kiwify |
 | **Hospedagem** | Hostinger |
+| **Site** | [portifolio.devcraft.dev.br/efata](https://portifolio.devcraft.dev.br/efata/) |
 | **Código** | repositório privado |
 
 ---
